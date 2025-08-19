@@ -1,0 +1,5 @@
+{
+  "name": "Loan Repayment Dashboard",
+  "description": "An elegant dashboard to track and manage your loan repayments. View your loan details, payment history, and upcoming schedule, and make payments with ease.",
+  "requestFramePermissions": []
+}
